@@ -238,7 +238,7 @@ DEPENDENCIES
   capybara
   debug
   devise (~> 4.8, >= 4.8.1)
-  image_processing (~> 1.12, >= 1.12.2)
+  image_processing (~> 1.2)
   importmap-rails
   jbuilder
   mongoid (~> 8.0, >= 8.0.2)
